@@ -36,13 +36,15 @@ do_action( 'woocommerce_before_add_to_cart_form' ); ?>
 
             <?php /** CUSTOM CODE GOES IN HERE */ ?>
             <tr>
-                <td class="label"><label for="location">Testing</label></td>
+                <td class="label"><label for="suburbLocation">Testing</label></td>
                 <td class="value">
-                    <select id="location">
+                    <select id="suburbLocation" onchange="selectChange();">
                         <option value="butt">WOoo!</option>
                     </select>
                 </td>
             </tr>
+
+            <?php /** END CUSTOM CODE */ ?>
 
 				<?php foreach ( $attributes as $attribute_name => $options ) : ?>
 					<tr>

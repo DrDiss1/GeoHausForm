@@ -9,8 +9,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 <?php global $woocommerce; ?>
 <html class="<?php echo ( Avada()->settings->get( 'smooth_scrolling' ) ) ? 'no-overflow-y' : ''; ?>" <?php language_attributes(); ?>>
 <head>
+    <?php /** CUSTOM JUNK **/ ?>
     <script type="text/javascript">
         var test = "THIS IS THE TESTING PAGE!";
+        var templateDir = "<?php bloginfo('template_directory') ?>";
     </script>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 

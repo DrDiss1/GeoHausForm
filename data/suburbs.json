@@ -1,0 +1,1857 @@
+[
+ {
+   "VALUE": 0,
+   "LOCATION": "ALEXANDER HEIGHTS",
+   "POSTCODE": 6064
+ },
+ {
+   "VALUE": 1,
+   "LOCATION": "ALFRED COVE",
+   "POSTCODE": 6154
+ },
+ {
+   "VALUE": 2,
+   "LOCATION": "ALKIMOS",
+   "POSTCODE": 6038
+ },
+ {
+   "VALUE": 3,
+   "LOCATION": "ANKETELL",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 4,
+   "LOCATION": "APPLECROSS",
+   "POSTCODE": 6153
+ },
+ {
+   "VALUE": 5,
+   "LOCATION": "ARDROSS",
+   "POSTCODE": 6153
+ },
+ {
+   "VALUE": 6,
+   "LOCATION": "ARMADALE",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 7,
+   "LOCATION": "ASCOT",
+   "POSTCODE": 6104
+ },
+ {
+   "VALUE": 8,
+   "LOCATION": "ASHBY",
+   "POSTCODE": 6065
+ },
+ {
+   "VALUE": 9,
+   "LOCATION": "ASHFIELD",
+   "POSTCODE": 6054
+ },
+ {
+   "VALUE": 10,
+   "LOCATION": "ATTADALE",
+   "POSTCODE": 6156
+ },
+ {
+   "VALUE": 11,
+   "LOCATION": "ATWELL",
+   "POSTCODE": 6164
+ },
+ {
+   "VALUE": 12,
+   "LOCATION": "AUBIN GROVE",
+   "POSTCODE": 6164
+ },
+ {
+   "VALUE": 13,
+   "LOCATION": "AVELEY",
+   "POSTCODE": 6069
+ },
+ {
+   "VALUE": 14,
+   "LOCATION": "BALCATTA",
+   "POSTCODE": 6021
+ },
+ {
+   "VALUE": 15,
+   "LOCATION": "BALDIVIS",
+   "POSTCODE": 6171
+ },
+ {
+   "VALUE": 16,
+   "LOCATION": "BALGA",
+   "POSTCODE": 6061
+ },
+ {
+   "VALUE": 17,
+   "LOCATION": "BALLAJURA",
+   "POSTCODE": 6066
+ },
+ {
+   "VALUE": 18,
+   "LOCATION": "BANJUP",
+   "POSTCODE": 6164
+ },
+ {
+   "VALUE": 19,
+   "LOCATION": "BANKSIA GROVE",
+   "POSTCODE": 6031
+ },
+ {
+   "VALUE": 20,
+   "LOCATION": "BARRAGUP",
+   "POSTCODE": 6209
+ },
+ {
+   "VALUE": 21,
+   "LOCATION": "BASKERVILLE",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 22,
+   "LOCATION": "BASSENDEAN",
+   "POSTCODE": 6054
+ },
+ {
+   "VALUE": 23,
+   "LOCATION": "BATEMAN",
+   "POSTCODE": 6150
+ },
+ {
+   "VALUE": 24,
+   "LOCATION": "BAYSWATER",
+   "POSTCODE": 6053
+ },
+ {
+   "VALUE": 25,
+   "LOCATION": "BEACONSFIELD",
+   "POSTCODE": 6162
+ },
+ {
+   "VALUE": 26,
+   "LOCATION": "BECKENHAM",
+   "POSTCODE": 6107
+ },
+ {
+   "VALUE": 27,
+   "LOCATION": "BEDFORD",
+   "POSTCODE": 6052
+ },
+ {
+   "VALUE": 28,
+   "LOCATION": "BEDFORDALE",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 29,
+   "LOCATION": "BEECHBORO",
+   "POSTCODE": 6063
+ },
+ {
+   "VALUE": 30,
+   "LOCATION": "BEECHINA",
+   "POSTCODE": 6556
+ },
+ {
+   "VALUE": 31,
+   "LOCATION": "BEELIAR",
+   "POSTCODE": 6164
+ },
+ {
+   "VALUE": 32,
+   "LOCATION": "BELDON",
+   "POSTCODE": 6027
+ },
+ {
+   "VALUE": 33,
+   "LOCATION": "BELHUS",
+   "POSTCODE": 6069
+ },
+ {
+   "VALUE": 34,
+   "LOCATION": "BELLEVUE",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 35,
+   "LOCATION": "BELMONT",
+   "POSTCODE": 6104
+ },
+ {
+   "VALUE": 36,
+   "LOCATION": "BENNETT SPRINGS",
+   "POSTCODE": 6063
+ },
+ {
+   "VALUE": 37,
+   "LOCATION": "BENTLEY",
+   "POSTCODE": 6102
+ },
+ {
+   "VALUE": 38,
+   "LOCATION": "BERTRAM",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 39,
+   "LOCATION": "BIBRA LAKE",
+   "POSTCODE": 6163
+ },
+ {
+   "VALUE": 40,
+   "LOCATION": "BICKLEY",
+   "POSTCODE": 6076
+ },
+ {
+   "VALUE": 41,
+   "LOCATION": "BICTON",
+   "POSTCODE": 6157
+ },
+ {
+   "VALUE": 42,
+   "LOCATION": "BLYTHEWOOD",
+   "POSTCODE": 6208
+ },
+ {
+   "VALUE": 43,
+   "LOCATION": "BOORAGOON",
+   "POSTCODE": 6154
+ },
+ {
+   "VALUE": 44,
+   "LOCATION": "BOUVARD",
+   "POSTCODE": 6211
+ },
+ {
+   "VALUE": 45,
+   "LOCATION": "BOYA",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 46,
+   "LOCATION": "BRABHAM",
+   "POSTCODE": 6055
+ },
+ {
+   "VALUE": 47,
+   "LOCATION": "BRENTWOOD",
+   "POSTCODE": 6153
+ },
+ {
+   "VALUE": 48,
+   "LOCATION": "BRIGADOON",
+   "POSTCODE": 6069
+ },
+ {
+   "VALUE": 49,
+   "LOCATION": "BROOKDALE",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 50,
+   "LOCATION": "BULL CREEK",
+   "POSTCODE": 6149
+ },
+ {
+   "VALUE": 51,
+   "LOCATION": "BURNS BEACH",
+   "POSTCODE": 6028
+ },
+ {
+   "VALUE": 52,
+   "LOCATION": "BURSWOOD",
+   "POSTCODE": 6100
+ },
+ {
+   "VALUE": 53,
+   "LOCATION": "BUTLER",
+   "POSTCODE": 6036
+ },
+ {
+   "VALUE": 54,
+   "LOCATION": "BYFORD",
+   "POSTCODE": 6122
+ },
+ {
+   "VALUE": 55,
+   "LOCATION": "CALISTA",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 56,
+   "LOCATION": "CAMILLO",
+   "POSTCODE": 6111
+ },
+ {
+   "VALUE": 57,
+   "LOCATION": "CANNING MILLS",
+   "POSTCODE": 6111
+ },
+ {
+   "VALUE": 58,
+   "LOCATION": "CANNING VALE",
+   "POSTCODE": 6155
+ },
+ {
+   "VALUE": 59,
+   "LOCATION": "CANNINGTON",
+   "POSTCODE": 6107
+ },
+ {
+   "VALUE": 60,
+   "LOCATION": "CARABOODA",
+   "POSTCODE": 6033
+ },
+ {
+   "VALUE": 61,
+   "LOCATION": "CARDUP",
+   "POSTCODE": 6122
+ },
+ {
+   "VALUE": 62,
+   "LOCATION": "CARINE",
+   "POSTCODE": 6020
+ },
+ {
+   "VALUE": 63,
+   "LOCATION": "CARLISLE",
+   "POSTCODE": 6101
+ },
+ {
+   "VALUE": 64,
+   "LOCATION": "CARMEL",
+   "POSTCODE": 6076
+ },
+ {
+   "VALUE": 65,
+   "LOCATION": "CARRAMAR",
+   "POSTCODE": 6031
+ },
+ {
+   "VALUE": 66,
+   "LOCATION": "CASUARINA",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 67,
+   "LOCATION": "CAVERSHAM",
+   "POSTCODE": 6055
+ },
+ {
+   "VALUE": 68,
+   "LOCATION": "CHAMPION LAKES",
+   "POSTCODE": 6111
+ },
+ {
+   "VALUE": 69,
+   "LOCATION": "CHURCHLANDS",
+   "POSTCODE": 6018
+ },
+ {
+   "VALUE": 70,
+   "LOCATION": "CITY BEACH",
+   "POSTCODE": 6015
+ },
+ {
+   "VALUE": 71,
+   "LOCATION": "CLAREMONT",
+   "POSTCODE": 6010
+ },
+ {
+   "VALUE": 72,
+   "LOCATION": "CLARKSON",
+   "POSTCODE": 6030
+ },
+ {
+   "VALUE": 73,
+   "LOCATION": "CLOVERDALE",
+   "POSTCODE": 6105
+ },
+ {
+   "VALUE": 74,
+   "LOCATION": "COMO",
+   "POSTCODE": 6152
+ },
+ {
+   "VALUE": 75,
+   "LOCATION": "CONNOLLY",
+   "POSTCODE": 6027
+ },
+ {
+   "VALUE": 76,
+   "LOCATION": "COODANUP",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 77,
+   "LOCATION": "COOGEE",
+   "POSTCODE": 6166
+ },
+ {
+   "VALUE": 78,
+   "LOCATION": "COOLBELLUP",
+   "POSTCODE": 6163
+ },
+ {
+   "VALUE": 79,
+   "LOCATION": "COOLBINIA",
+   "POSTCODE": 6050
+ },
+ {
+   "VALUE": 80,
+   "LOCATION": "COOLOONGUP",
+   "POSTCODE": 6168
+ },
+ {
+   "VALUE": 81,
+   "LOCATION": "COTTESLOE",
+   "POSTCODE": 6011
+ },
+ {
+   "VALUE": 82,
+   "LOCATION": "CRAIGIE",
+   "POSTCODE": 6025
+ },
+ {
+   "VALUE": 83,
+   "LOCATION": "CRAWLEY",
+   "POSTCODE": 6009
+ },
+ {
+   "VALUE": 84,
+   "LOCATION": "CULLACABARDEE",
+   "POSTCODE": 6067
+ },
+ {
+   "VALUE": 85,
+   "LOCATION": "CURRAMBINE",
+   "POSTCODE": 6028
+ },
+ {
+   "VALUE": 86,
+   "LOCATION": "DAGLISH",
+   "POSTCODE": 6008
+ },
+ {
+   "VALUE": 87,
+   "LOCATION": "DALKEITH",
+   "POSTCODE": 6009
+ },
+ {
+   "VALUE": 88,
+   "LOCATION": "DARCH",
+   "POSTCODE": 6065
+ },
+ {
+   "VALUE": 89,
+   "LOCATION": "DARLING DOWNS",
+   "POSTCODE": 6122
+ },
+ {
+   "VALUE": 90,
+   "LOCATION": "DARLINGTON",
+   "POSTCODE": 6070
+ },
+ {
+   "VALUE": 91,
+   "LOCATION": "DAWESVILLE",
+   "POSTCODE": 6211
+ },
+ {
+   "VALUE": 92,
+   "LOCATION": "DAYTON",
+   "POSTCODE": 6055
+ },
+ {
+   "VALUE": 93,
+   "LOCATION": "DIANELLA",
+   "POSTCODE": 6059
+ },
+ {
+   "VALUE": 94,
+   "LOCATION": "DOUBLEVIEW",
+   "POSTCODE": 6018
+ },
+ {
+   "VALUE": 95,
+   "LOCATION": "DUDLEY PARK",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 96,
+   "LOCATION": "DUNCRAIG",
+   "POSTCODE": 6023
+ },
+ {
+   "VALUE": 97,
+   "LOCATION": "EAST CANNINGTON",
+   "POSTCODE": 6107
+ },
+ {
+   "VALUE": 98,
+   "LOCATION": "EAST FREMANTLE",
+   "POSTCODE": 6158
+ },
+ {
+   "VALUE": 99,
+   "LOCATION": "EAST PERTH",
+   "POSTCODE": 6004
+ },
+ {
+   "VALUE": 100,
+   "LOCATION": "EAST ROCKINGHAM",
+   "POSTCODE": 6168
+ },
+ {
+   "VALUE": 101,
+   "LOCATION": "EAST VICTORIA PARK",
+   "POSTCODE": 6101
+ },
+ {
+   "VALUE": 102,
+   "LOCATION": "EDEN HILL",
+   "POSTCODE": 6054
+ },
+ {
+   "VALUE": 103,
+   "LOCATION": "EDGEWATER",
+   "POSTCODE": 6027
+ },
+ {
+   "VALUE": 104,
+   "LOCATION": "EGLINTON",
+   "POSTCODE": 6034
+ },
+ {
+   "VALUE": 105,
+   "LOCATION": "ELLENBROOK",
+   "POSTCODE": 6069
+ },
+ {
+   "VALUE": 106,
+   "LOCATION": "EMBLETON",
+   "POSTCODE": 6062
+ },
+ {
+   "VALUE": 107,
+   "LOCATION": "ERSKINE",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 108,
+   "LOCATION": "FAIRBRIDGE",
+   "POSTCODE": 6208
+ },
+ {
+   "VALUE": 109,
+   "LOCATION": "FALCON",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 110,
+   "LOCATION": "FERNDALE",
+   "POSTCODE": 6148
+ },
+ {
+   "VALUE": 111,
+   "LOCATION": "FLOREAT",
+   "POSTCODE": 6014
+ },
+ {
+   "VALUE": 112,
+   "LOCATION": "FORRESTDALE",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 113,
+   "LOCATION": "FORRESTFIELD",
+   "POSTCODE": 6058
+ },
+ {
+   "VALUE": 114,
+   "LOCATION": "FREMANTLE",
+   "POSTCODE": 6160
+ },
+ {
+   "VALUE": 115,
+   "LOCATION": "FURNISSDALE",
+   "POSTCODE": 6209
+ },
+ {
+   "VALUE": 116,
+   "LOCATION": "GIRRAWHEEN",
+   "POSTCODE": 6064
+ },
+ {
+   "VALUE": 117,
+   "LOCATION": "GLEN FORREST",
+   "POSTCODE": 6071
+ },
+ {
+   "VALUE": 118,
+   "LOCATION": "GLENDALOUGH",
+   "POSTCODE": 6016
+ },
+ {
+   "VALUE": 119,
+   "LOCATION": "GNANGARA",
+   "POSTCODE": 6077
+ },
+ {
+   "VALUE": 120,
+   "LOCATION": "GOLDEN BAY",
+   "POSTCODE": 6174
+ },
+ {
+   "VALUE": 121,
+   "LOCATION": "GOOSEBERRY HILL",
+   "POSTCODE": 6076
+ },
+ {
+   "VALUE": 122,
+   "LOCATION": "GORRIE",
+   "POSTCODE": 6556
+ },
+ {
+   "VALUE": 123,
+   "LOCATION": "GOSNELLS",
+   "POSTCODE": 6110
+ },
+ {
+   "VALUE": 124,
+   "LOCATION": "GREENFIELDS",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 125,
+   "LOCATION": "GREENMOUNT",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 126,
+   "LOCATION": "GREENWOOD",
+   "POSTCODE": 6024
+ },
+ {
+   "VALUE": 127,
+   "LOCATION": "GUILDFORD",
+   "POSTCODE": 6055
+ },
+ {
+   "VALUE": 128,
+   "LOCATION": "GWELUP",
+   "POSTCODE": 6018
+ },
+ {
+   "VALUE": 129,
+   "LOCATION": "HACKETTS GULLY",
+   "POSTCODE": 6076
+ },
+ {
+   "VALUE": 130,
+   "LOCATION": "HALLS HEAD",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 131,
+   "LOCATION": "HAMERSLEY",
+   "POSTCODE": 6022
+ },
+ {
+   "VALUE": 132,
+   "LOCATION": "HAMILTON HILL",
+   "POSTCODE": 6163
+ },
+ {
+   "VALUE": 133,
+   "LOCATION": "HAMMOND PARK",
+   "POSTCODE": 6164
+ },
+ {
+   "VALUE": 134,
+   "LOCATION": "HARRISDALE",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 135,
+   "LOCATION": "HAYNES",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 136,
+   "LOCATION": "HAZELMERE",
+   "POSTCODE": 6055
+ },
+ {
+   "VALUE": 137,
+   "LOCATION": "HEATHRIDGE",
+   "POSTCODE": 6027
+ },
+ {
+   "VALUE": 138,
+   "LOCATION": "HELENA VALLEY",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 139,
+   "LOCATION": "HENDERSON",
+   "POSTCODE": 6166
+ },
+ {
+   "VALUE": 140,
+   "LOCATION": "HENLEY BROOK",
+   "POSTCODE": 6055
+ },
+ {
+   "VALUE": 141,
+   "LOCATION": "HERDSMAN",
+   "POSTCODE": 6017
+ },
+ {
+   "VALUE": 142,
+   "LOCATION": "HERNE HILL",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 143,
+   "LOCATION": "HIGH WYCOMBE",
+   "POSTCODE": 6057
+ },
+ {
+   "VALUE": 144,
+   "LOCATION": "HIGHGATE",
+   "POSTCODE": 6003
+ },
+ {
+   "VALUE": 145,
+   "LOCATION": "HILBERT",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 146,
+   "LOCATION": "HILLARYS",
+   "POSTCODE": 6025
+ },
+ {
+   "VALUE": 147,
+   "LOCATION": "HILLMAN",
+   "POSTCODE": 6168
+ },
+ {
+   "VALUE": 148,
+   "LOCATION": "HILTON",
+   "POSTCODE": 6163
+ },
+ {
+   "VALUE": 149,
+   "LOCATION": "HOCKING",
+   "POSTCODE": 6065
+ },
+ {
+   "VALUE": 150,
+   "LOCATION": "HOPE VALLEY",
+   "POSTCODE": 6165
+ },
+ {
+   "VALUE": 151,
+   "LOCATION": "HOPELAND",
+   "POSTCODE": 6125
+ },
+ {
+   "VALUE": 152,
+   "LOCATION": "HOVEA",
+   "POSTCODE": 6071
+ },
+ {
+   "VALUE": 153,
+   "LOCATION": "HUNTINGDALE",
+   "POSTCODE": 6110
+ },
+ {
+   "VALUE": 154,
+   "LOCATION": "ILUKA",
+   "POSTCODE": 6028
+ },
+ {
+   "VALUE": 155,
+   "LOCATION": "INGLEWOOD",
+   "POSTCODE": 6052
+ },
+ {
+   "VALUE": 156,
+   "LOCATION": "INNALOO",
+   "POSTCODE": 6018
+ },
+ {
+   "VALUE": 157,
+   "LOCATION": "JANDABUP",
+   "POSTCODE": 6077
+ },
+ {
+   "VALUE": 158,
+   "LOCATION": "JANDAKOT",
+   "POSTCODE": 6164
+ },
+ {
+   "VALUE": 159,
+   "LOCATION": "JANE BROOK",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 160,
+   "LOCATION": "JINDALEE",
+   "POSTCODE": 6036
+ },
+ {
+   "VALUE": 161,
+   "LOCATION": "JOLIMONT",
+   "POSTCODE": 6014
+ },
+ {
+   "VALUE": 162,
+   "LOCATION": "JOONDALUP",
+   "POSTCODE": 6027
+ },
+ {
+   "VALUE": 163,
+   "LOCATION": "JOONDANNA",
+   "POSTCODE": 6060
+ },
+ {
+   "VALUE": 164,
+   "LOCATION": "KALAMUNDA",
+   "POSTCODE": 6076
+ },
+ {
+   "VALUE": 165,
+   "LOCATION": "KALLAROO",
+   "POSTCODE": 6025
+ },
+ {
+   "VALUE": 166,
+   "LOCATION": "KARAWARA",
+   "POSTCODE": 6152
+ },
+ {
+   "VALUE": 167,
+   "LOCATION": "KARDINYA",
+   "POSTCODE": 6163
+ },
+ {
+   "VALUE": 168,
+   "LOCATION": "KARNUP",
+   "POSTCODE": 6176
+ },
+ {
+   "VALUE": 169,
+   "LOCATION": "KARRAGULLEN",
+   "POSTCODE": 6111
+ },
+ {
+   "VALUE": 170,
+   "LOCATION": "KARRAKATTA",
+   "POSTCODE": 6010
+ },
+ {
+   "VALUE": 171,
+   "LOCATION": "KARRAKUP",
+   "POSTCODE": 6122
+ },
+ {
+   "VALUE": 172,
+   "LOCATION": "KARRINYUP",
+   "POSTCODE": 6018
+ },
+ {
+   "VALUE": 173,
+   "LOCATION": "KELMSCOTT",
+   "POSTCODE": 6111
+ },
+ {
+   "VALUE": 174,
+   "LOCATION": "KENSINGTON",
+   "POSTCODE": 6151
+ },
+ {
+   "VALUE": 175,
+   "LOCATION": "KENWICK",
+   "POSTCODE": 6107
+ },
+ {
+   "VALUE": 176,
+   "LOCATION": "KEWDALE",
+   "POSTCODE": 6105
+ },
+ {
+   "VALUE": 177,
+   "LOCATION": "KIARA",
+   "POSTCODE": 6054
+ },
+ {
+   "VALUE": 178,
+   "LOCATION": "KINGS PARK",
+   "POSTCODE": 6005
+ },
+ {
+   "VALUE": 179,
+   "LOCATION": "KINGSLEY",
+   "POSTCODE": 6026
+ },
+ {
+   "VALUE": 180,
+   "LOCATION": "KINROSS",
+   "POSTCODE": 6028
+ },
+ {
+   "VALUE": 181,
+   "LOCATION": "KOONDOOLA",
+   "POSTCODE": 6064
+ },
+ {
+   "VALUE": 182,
+   "LOCATION": "KOONGAMIA",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 183,
+   "LOCATION": "KWINANA",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 184,
+   "LOCATION": "KWINANA BEACH",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 185,
+   "LOCATION": "KWINANA TOWN CENTRE",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 186,
+   "LOCATION": "LAKELANDS",
+   "POSTCODE": 6180
+ },
+ {
+   "VALUE": 187,
+   "LOCATION": "LANDSDALE",
+   "POSTCODE": 6065
+ },
+ {
+   "VALUE": 188,
+   "LOCATION": "LANGFORD",
+   "POSTCODE": 6147
+ },
+ {
+   "VALUE": 189,
+   "LOCATION": "LATHLAIN",
+   "POSTCODE": 6100
+ },
+ {
+   "VALUE": 190,
+   "LOCATION": "LEDA",
+   "POSTCODE": 6170
+ },
+ {
+   "VALUE": 191,
+   "LOCATION": "LEEDERVILLE",
+   "POSTCODE": 6007
+ },
+ {
+   "VALUE": 192,
+   "LOCATION": "LEEMING",
+   "POSTCODE": 6149
+ },
+ {
+   "VALUE": 193,
+   "LOCATION": "LESMURDIE",
+   "POSTCODE": 6076
+ },
+ {
+   "VALUE": 194,
+   "LOCATION": "LEXIA",
+   "POSTCODE": 6079
+ },
+ {
+   "VALUE": 195,
+   "LOCATION": "LOCKRIDGE",
+   "POSTCODE": 6054
+ },
+ {
+   "VALUE": 196,
+   "LOCATION": "LYNWOOD",
+   "POSTCODE": 6147
+ },
+ {
+   "VALUE": 197,
+   "LOCATION": "MADDINGTON",
+   "POSTCODE": 6109
+ },
+ {
+   "VALUE": 198,
+   "LOCATION": "MADELEY",
+   "POSTCODE": 6065
+ },
+ {
+   "VALUE": 199,
+   "LOCATION": "MADORA BAY",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 200,
+   "LOCATION": "MAHOGANY CREEK",
+   "POSTCODE": 6072
+ },
+ {
+   "VALUE": 201,
+   "LOCATION": "MAIDA VALE",
+   "POSTCODE": 6057
+ },
+ {
+   "VALUE": 202,
+   "LOCATION": "MALAGA",
+   "POSTCODE": 6090
+ },
+ {
+   "VALUE": 203,
+   "LOCATION": "MANDOGALUP",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 204,
+   "LOCATION": "MANDURAH",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 205,
+   "LOCATION": "MANNING",
+   "POSTCODE": 6152
+ },
+ {
+   "VALUE": 206,
+   "LOCATION": "MARANGAROO",
+   "POSTCODE": 6064
+ },
+ {
+   "VALUE": 207,
+   "LOCATION": "MARDELLA",
+   "POSTCODE": 6125
+ },
+ {
+   "VALUE": 208,
+   "LOCATION": "MARIGINIUP",
+   "POSTCODE": 6078
+ },
+ {
+   "VALUE": 209,
+   "LOCATION": "MARMION",
+   "POSTCODE": 6020
+ },
+ {
+   "VALUE": 210,
+   "LOCATION": "MARTIN",
+   "POSTCODE": 6110
+ },
+ {
+   "VALUE": 211,
+   "LOCATION": "MAYLANDS",
+   "POSTCODE": 6051
+ },
+ {
+   "VALUE": 212,
+   "LOCATION": "MEADOW SPRINGS",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 213,
+   "LOCATION": "MEDINA",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 214,
+   "LOCATION": "MELALEUCA",
+   "POSTCODE": 6079
+ },
+ {
+   "VALUE": 215,
+   "LOCATION": "MELVILLE",
+   "POSTCODE": 6156
+ },
+ {
+   "VALUE": 216,
+   "LOCATION": "MENORA",
+   "POSTCODE": 6050
+ },
+ {
+   "VALUE": 217,
+   "LOCATION": "MERRIWA",
+   "POSTCODE": 6030
+ },
+ {
+   "VALUE": 218,
+   "LOCATION": "MIDDLE SWAN",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 219,
+   "LOCATION": "MIDLAND",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 220,
+   "LOCATION": "MIDVALE",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 221,
+   "LOCATION": "MILLENDON",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 222,
+   "LOCATION": "MINDARIE",
+   "POSTCODE": 6030
+ },
+ {
+   "VALUE": 223,
+   "LOCATION": "MIRRABOOKA",
+   "POSTCODE": 6061
+ },
+ {
+   "VALUE": 224,
+   "LOCATION": "MORLEY",
+   "POSTCODE": 6062
+ },
+ {
+   "VALUE": 225,
+   "LOCATION": "MOSMAN PARK",
+   "POSTCODE": 6012
+ },
+ {
+   "VALUE": 226,
+   "LOCATION": "MOUNT CLAREMONT",
+   "POSTCODE": 6010
+ },
+ {
+   "VALUE": 227,
+   "LOCATION": "MOUNT HAWTHORN",
+   "POSTCODE": 6016
+ },
+ {
+   "VALUE": 228,
+   "LOCATION": "MOUNT HELENA",
+   "POSTCODE": 6082
+ },
+ {
+   "VALUE": 229,
+   "LOCATION": "MOUNT LAWLEY",
+   "POSTCODE": 6050
+ },
+ {
+   "VALUE": 230,
+   "LOCATION": "MOUNT NASURA",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 231,
+   "LOCATION": "MOUNT PLEASANT",
+   "POSTCODE": 6153
+ },
+ {
+   "VALUE": 232,
+   "LOCATION": "MOUNT RICHON",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 233,
+   "LOCATION": "MULLALOO",
+   "POSTCODE": 6027
+ },
+ {
+   "VALUE": 234,
+   "LOCATION": "MUNDARING",
+   "POSTCODE": 6073
+ },
+ {
+   "VALUE": 235,
+   "LOCATION": "MUNSTER",
+   "POSTCODE": 6166
+ },
+ {
+   "VALUE": 236,
+   "LOCATION": "MURDOCH",
+   "POSTCODE": 6150
+ },
+ {
+   "VALUE": 237,
+   "LOCATION": "MYAREE",
+   "POSTCODE": 6154
+ },
+ {
+   "VALUE": 238,
+   "LOCATION": "NAVAL BASE",
+   "POSTCODE": 6165
+ },
+ {
+   "VALUE": 239,
+   "LOCATION": "NEDLANDS",
+   "POSTCODE": 6009
+ },
+ {
+   "VALUE": 240,
+   "LOCATION": "NEERABUP",
+   "POSTCODE": 6031
+ },
+ {
+   "VALUE": 241,
+   "LOCATION": "NIRIMBA",
+   "POSTCODE": 6208
+ },
+ {
+   "VALUE": 242,
+   "LOCATION": "NOLLAMARA",
+   "POSTCODE": 6061
+ },
+ {
+   "VALUE": 243,
+   "LOCATION": "NORANDA",
+   "POSTCODE": 6062
+ },
+ {
+   "VALUE": 244,
+   "LOCATION": "NORTH BEACH",
+   "POSTCODE": 6020
+ },
+ {
+   "VALUE": 245,
+   "LOCATION": "NORTH COOGEE",
+   "POSTCODE": 6163
+ },
+ {
+   "VALUE": 246,
+   "LOCATION": "NORTH FREMANTLE",
+   "POSTCODE": 6159
+ },
+ {
+   "VALUE": 247,
+   "LOCATION": "NORTH LAKE",
+   "POSTCODE": 6163
+ },
+ {
+   "VALUE": 248,
+   "LOCATION": "NORTH PERTH",
+   "POSTCODE": 6006
+ },
+ {
+   "VALUE": 249,
+   "LOCATION": "NORTH YUNDERUP",
+   "POSTCODE": 6208
+ },
+ {
+   "VALUE": 250,
+   "LOCATION": "NORTHBRIDGE",
+   "POSTCODE": 6003
+ },
+ {
+   "VALUE": 251,
+   "LOCATION": "NOWERGUP",
+   "POSTCODE": 6032
+ },
+ {
+   "VALUE": 252,
+   "LOCATION": "O'CONNOR",
+   "POSTCODE": 6163
+ },
+ {
+   "VALUE": 253,
+   "LOCATION": "OAKFORD",
+   "POSTCODE": 6121
+ },
+ {
+   "VALUE": 254,
+   "LOCATION": "OAKLEY",
+   "POSTCODE": 6208
+ },
+ {
+   "VALUE": 255,
+   "LOCATION": "OCEAN REEF",
+   "POSTCODE": 6027
+ },
+ {
+   "VALUE": 256,
+   "LOCATION": "OLDBURY",
+   "POSTCODE": 6121
+ },
+ {
+   "VALUE": 257,
+   "LOCATION": "ORANGE GROVE",
+   "POSTCODE": 6109
+ },
+ {
+   "VALUE": 258,
+   "LOCATION": "ORELIA",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 259,
+   "LOCATION": "OSBORNE PARK",
+   "POSTCODE": 6017
+ },
+ {
+   "VALUE": 260,
+   "LOCATION": "PADBURY",
+   "POSTCODE": 6025
+ },
+ {
+   "VALUE": 261,
+   "LOCATION": "PALMYRA",
+   "POSTCODE": 6157
+ },
+ {
+   "VALUE": 262,
+   "LOCATION": "PARKERVILLE",
+   "POSTCODE": 6081
+ },
+ {
+   "VALUE": 263,
+   "LOCATION": "PARKLANDS",
+   "POSTCODE": 6180
+ },
+ {
+   "VALUE": 264,
+   "LOCATION": "PARKWOOD",
+   "POSTCODE": 6147
+ },
+ {
+   "VALUE": 265,
+   "LOCATION": "PARMELIA",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 266,
+   "LOCATION": "PAULLS VALLEY",
+   "POSTCODE": 6076
+ },
+ {
+   "VALUE": 267,
+   "LOCATION": "PEARSALL",
+   "POSTCODE": 6065
+ },
+ {
+   "VALUE": 268,
+   "LOCATION": "PEPPERMINT GROVE",
+   "POSTCODE": 6011
+ },
+ {
+   "VALUE": 269,
+   "LOCATION": "PERON",
+   "POSTCODE": 6168
+ },
+ {
+   "VALUE": 270,
+   "LOCATION": "PERTH",
+   "POSTCODE": 6000
+ },
+ {
+   "VALUE": 271,
+   "LOCATION": "PERTH AIRPORT",
+   "POSTCODE": 6105
+ },
+ {
+   "VALUE": 272,
+   "LOCATION": "PIARA WATERS",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 273,
+   "LOCATION": "PICKERING BROOK",
+   "POSTCODE": 6076
+ },
+ {
+   "VALUE": 274,
+   "LOCATION": "PIESSE BROOK",
+   "POSTCODE": 6076
+ },
+ {
+   "VALUE": 275,
+   "LOCATION": "POINT GREY",
+   "POSTCODE": 6208
+ },
+ {
+   "VALUE": 276,
+   "LOCATION": "PORT COOGEE",
+   "POSTCODE": 6163
+ },
+ {
+   "VALUE": 277,
+   "LOCATION": "PORT KENNEDY",
+   "POSTCODE": 6172
+ },
+ {
+   "VALUE": 278,
+   "LOCATION": "POSTANS",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 279,
+   "LOCATION": "QUEENS PARK",
+   "POSTCODE": 6107
+ },
+ {
+   "VALUE": 280,
+   "LOCATION": "QUINNS ROCKS",
+   "POSTCODE": 6030
+ },
+ {
+   "VALUE": 281,
+   "LOCATION": "RAVENSWOOD",
+   "POSTCODE": 6208
+ },
+ {
+   "VALUE": 282,
+   "LOCATION": "RED HILL",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 283,
+   "LOCATION": "REDCLIFFE",
+   "POSTCODE": 6104
+ },
+ {
+   "VALUE": 284,
+   "LOCATION": "RESERVOIR",
+   "POSTCODE": 6076
+ },
+ {
+   "VALUE": 285,
+   "LOCATION": "RIDGEWOOD",
+   "POSTCODE": 6030
+ },
+ {
+   "VALUE": 286,
+   "LOCATION": "RIVERTON",
+   "POSTCODE": 6148
+ },
+ {
+   "VALUE": 287,
+   "LOCATION": "RIVERVALE",
+   "POSTCODE": 6103
+ },
+ {
+   "VALUE": 288,
+   "LOCATION": "ROCKINGHAM",
+   "POSTCODE": 6168
+ },
+ {
+   "VALUE": 289,
+   "LOCATION": "ROLEYSTONE",
+   "POSTCODE": 6111
+ },
+ {
+   "VALUE": 290,
+   "LOCATION": "ROSSMOYNE",
+   "POSTCODE": 6148
+ },
+ {
+   "VALUE": 291,
+   "LOCATION": "SAFETY BAY",
+   "POSTCODE": 6169
+ },
+ {
+   "VALUE": 292,
+   "LOCATION": "SAINT JAMES ",
+   "POSTCODE": 6102
+ },
+ {
+   "VALUE": 293,
+   "LOCATION": "SALTER POINT",
+   "POSTCODE": 6152
+ },
+ {
+   "VALUE": 294,
+   "LOCATION": "SAMSON",
+   "POSTCODE": 6163
+ },
+ {
+   "VALUE": 295,
+   "LOCATION": "SAN REMO",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 296,
+   "LOCATION": "SAWYERS VALLEY",
+   "POSTCODE": 6074
+ },
+ {
+   "VALUE": 297,
+   "LOCATION": "SCARBOROUGH",
+   "POSTCODE": 6019
+ },
+ {
+   "VALUE": 298,
+   "LOCATION": "SECRET HARBOUR",
+   "POSTCODE": 6173
+ },
+ {
+   "VALUE": 299,
+   "LOCATION": "SEVILLE GROVE",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 300,
+   "LOCATION": "SHELLEY",
+   "POSTCODE": 6148
+ },
+ {
+   "VALUE": 301,
+   "LOCATION": "SHENTON PARK",
+   "POSTCODE": 6008
+ },
+ {
+   "VALUE": 302,
+   "LOCATION": "SHOALWATER",
+   "POSTCODE": 6169
+ },
+ {
+   "VALUE": 303,
+   "LOCATION": "SILVER SANDS",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 304,
+   "LOCATION": "SINAGRA",
+   "POSTCODE": 6065
+ },
+ {
+   "VALUE": 305,
+   "LOCATION": "SINGLETON",
+   "POSTCODE": 6175
+ },
+ {
+   "VALUE": 306,
+   "LOCATION": "SORRENTO",
+   "POSTCODE": 6020
+ },
+ {
+   "VALUE": 307,
+   "LOCATION": "SOUTH FREMANTLE",
+   "POSTCODE": 6162
+ },
+ {
+   "VALUE": 308,
+   "LOCATION": "SOUTH GUILDFORD",
+   "POSTCODE": 6055
+ },
+ {
+   "VALUE": 309,
+   "LOCATION": "SOUTH LAKE",
+   "POSTCODE": 6164
+ },
+ {
+   "VALUE": 310,
+   "LOCATION": "SOUTH PERTH",
+   "POSTCODE": 6151
+ },
+ {
+   "VALUE": 311,
+   "LOCATION": "SOUTH YUNDERUP",
+   "POSTCODE": 6208
+ },
+ {
+   "VALUE": 312,
+   "LOCATION": "SOUTHERN RIVER",
+   "POSTCODE": 6110
+ },
+ {
+   "VALUE": 313,
+   "LOCATION": "SPEARWOOD",
+   "POSTCODE": 6163
+ },
+ {
+   "VALUE": 314,
+   "LOCATION": "STAKE HILL",
+   "POSTCODE": 6181
+ },
+ {
+   "VALUE": 315,
+   "LOCATION": "STIRLING",
+   "POSTCODE": 6021
+ },
+ {
+   "VALUE": 316,
+   "LOCATION": "STONEVILLE",
+   "POSTCODE": 6081
+ },
+ {
+   "VALUE": 317,
+   "LOCATION": "STRATTON",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 318,
+   "LOCATION": "SUBIACO",
+   "POSTCODE": 6008
+ },
+ {
+   "VALUE": 319,
+   "LOCATION": "SUCCESS",
+   "POSTCODE": 6164
+ },
+ {
+   "VALUE": 320,
+   "LOCATION": "SWAN VIEW",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 321,
+   "LOCATION": "SWANBOURNE",
+   "POSTCODE": 6010
+ },
+ {
+   "VALUE": 322,
+   "LOCATION": "TAMALA PARK",
+   "POSTCODE": 6030
+ },
+ {
+   "VALUE": 323,
+   "LOCATION": "TAPPING",
+   "POSTCODE": 6065
+ },
+ {
+   "VALUE": 324,
+   "LOCATION": "THE LAKES",
+   "POSTCODE": 6556
+ },
+ {
+   "VALUE": 325,
+   "LOCATION": "THE SPECTACLES",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 326,
+   "LOCATION": "THE VINES",
+   "POSTCODE": 6069
+ },
+ {
+   "VALUE": 327,
+   "LOCATION": "THORNLIE",
+   "POSTCODE": 6108
+ },
+ {
+   "VALUE": 328,
+   "LOCATION": "TRIGG",
+   "POSTCODE": 6029
+ },
+ {
+   "VALUE": 329,
+   "LOCATION": "TUART HILL",
+   "POSTCODE": 6060
+ },
+ {
+   "VALUE": 330,
+   "LOCATION": "TWO ROCKS",
+   "POSTCODE": 6037
+ },
+ {
+   "VALUE": 331,
+   "LOCATION": "UPPER SWAN",
+   "POSTCODE": 6069
+ },
+ {
+   "VALUE": 332,
+   "LOCATION": "VICTORIA PARK",
+   "POSTCODE": 6100
+ },
+ {
+   "VALUE": 333,
+   "LOCATION": "VIVEASH",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 334,
+   "LOCATION": "WAIKIKI",
+   "POSTCODE": 6169
+ },
+ {
+   "VALUE": 335,
+   "LOCATION": "WALLISTON",
+   "POSTCODE": 6076
+ },
+ {
+   "VALUE": 336,
+   "LOCATION": "WANDI",
+   "POSTCODE": 6167
+ },
+ {
+   "VALUE": 337,
+   "LOCATION": "WANGARA",
+   "POSTCODE": 6065
+ },
+ {
+   "VALUE": 338,
+   "LOCATION": "WANNANUP",
+   "POSTCODE": 6210
+ },
+ {
+   "VALUE": 339,
+   "LOCATION": "WANNEROO",
+   "POSTCODE": 6065
+ },
+ {
+   "VALUE": 340,
+   "LOCATION": "WARNBRO",
+   "POSTCODE": 6169
+ },
+ {
+   "VALUE": 341,
+   "LOCATION": "WARWICK",
+   "POSTCODE": 6024
+ },
+ {
+   "VALUE": 342,
+   "LOCATION": "WATERFORD",
+   "POSTCODE": 6152
+ },
+ {
+   "VALUE": 343,
+   "LOCATION": "WATERMANS BAY",
+   "POSTCODE": 6020
+ },
+ {
+   "VALUE": 344,
+   "LOCATION": "WATTLE GROVE",
+   "POSTCODE": 6107
+ },
+ {
+   "VALUE": 345,
+   "LOCATION": "WATTLEUP",
+   "POSTCODE": 6166
+ },
+ {
+   "VALUE": 346,
+   "LOCATION": "WELLARD",
+   "POSTCODE": 6170
+ },
+ {
+   "VALUE": 347,
+   "LOCATION": "WELSHPOOL",
+   "POSTCODE": 6106
+ },
+ {
+   "VALUE": 348,
+   "LOCATION": "WEMBLEY",
+   "POSTCODE": 6014
+ },
+ {
+   "VALUE": 349,
+   "LOCATION": "WEMBLEY DOWNS",
+   "POSTCODE": 6019
+ },
+ {
+   "VALUE": 350,
+   "LOCATION": "WEST LEEDERVILLE",
+   "POSTCODE": 6007
+ },
+ {
+   "VALUE": 351,
+   "LOCATION": "WEST PERTH",
+   "POSTCODE": 6005
+ },
+ {
+   "VALUE": 352,
+   "LOCATION": "WEST SWAN",
+   "POSTCODE": 6055
+ },
+ {
+   "VALUE": 353,
+   "LOCATION": "WESTFIELD",
+   "POSTCODE": 6111
+ },
+ {
+   "VALUE": 354,
+   "LOCATION": "WESTMINSTER",
+   "POSTCODE": 6061
+ },
+ {
+   "VALUE": 355,
+   "LOCATION": "WHITBY",
+   "POSTCODE": 6123
+ },
+ {
+   "VALUE": 356,
+   "LOCATION": "WHITE GUM VALLEY",
+   "POSTCODE": 6162
+ },
+ {
+   "VALUE": 357,
+   "LOCATION": "WHITEMAN",
+   "POSTCODE": 6068
+ },
+ {
+   "VALUE": 358,
+   "LOCATION": "WILBINGA",
+   "POSTCODE": 6041
+ },
+ {
+   "VALUE": 359,
+   "LOCATION": "WILLAGEE",
+   "POSTCODE": 6156
+ },
+ {
+   "VALUE": 360,
+   "LOCATION": "WILLETTON",
+   "POSTCODE": 6155
+ },
+ {
+   "VALUE": 361,
+   "LOCATION": "WILSON",
+   "POSTCODE": 6107
+ },
+ {
+   "VALUE": 362,
+   "LOCATION": "WINTHROP",
+   "POSTCODE": 6150
+ },
+ {
+   "VALUE": 363,
+   "LOCATION": "WOODBRIDGE",
+   "POSTCODE": 6056
+ },
+ {
+   "VALUE": 364,
+   "LOCATION": "WOODLANDS",
+   "POSTCODE": 6018
+ },
+ {
+   "VALUE": 365,
+   "LOCATION": "WOODVALE",
+   "POSTCODE": 6026
+ },
+ {
+   "VALUE": 366,
+   "LOCATION": "WUNGONG",
+   "POSTCODE": 6112
+ },
+ {
+   "VALUE": 367,
+   "LOCATION": "YANCHEP",
+   "POSTCODE": 6035
+ },
+ {
+   "VALUE": 368,
+   "LOCATION": "YANGEBUP",
+   "POSTCODE": 6164
+ },
+ {
+   "VALUE": 369,
+   "LOCATION": "YOKINE",
+   "POSTCODE": 6060
+ },
+ {
+   "VALUE": 370,
+   "LOCATION": "YUNDERUP",
+   "POSTCODE": 6208
+ }
+]
