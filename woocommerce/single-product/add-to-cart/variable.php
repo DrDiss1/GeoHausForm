@@ -31,20 +31,25 @@ do_action( 'woocommerce_before_add_to_cart_form' ); ?>
 	<?php if ( empty( $available_variations ) && false !== $available_variations ) : ?>
 		<p class="stock out-of-stock"><?php _e( 'This product is currently out of stock and unavailable.', 'woocommerce' ); ?></p>
 	<?php else : ?>
-		<table class="variations" cellspacing="0">
-			<tbody>
-
-            <?php /** CUSTOM CODE GOES IN HERE */ ?>
+        <?php /** CUSTOM CODE GOES IN HERE */ ?>
+        <table>
+            <tbody>
             <tr>
                 <td class="label"><label for="suburbLocation">Testing</label></td>
                 <td class="value">
-                    <select id="suburbLocation" onchange="selectChange();">
-                        <option value="butt">WOoo!</option>
+                    <select id="suburbLocation">
                     </select>
                 </td>
             </tr>
+            </tbody>
+        </table>
 
-            <?php /** END CUSTOM CODE */ ?>
+
+        <?php /** END CUSTOM CODE */ ?>
+		<table class="variations" cellspacing="0">
+			<tbody>
+
+
 
 				<?php foreach ( $attributes as $attribute_name => $options ) : ?>
 					<tr>

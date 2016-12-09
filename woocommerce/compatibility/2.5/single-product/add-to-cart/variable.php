@@ -35,10 +35,9 @@ do_action( 'woocommerce_before_add_to_cart_form' ); ?>
 			<tbody>
             <?php /** CUSTOM CODE GOES IN HERE */ ?>
             <tr>
-                <td class="label"><label for="location">Testing</label></td>
+                <td class="label"><label for="suburbLocation">Testing</label></td>
                 <td class="value">
-                    <select id="location">
-                        <option value="butt">WOoo!</option>
+                    <select id="suburbLocation">
                     </select>
                 </td>
             </tr>
