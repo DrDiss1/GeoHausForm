@@ -13,7 +13,7 @@ var distanceLimits = [0,10,20,30,40,50];
 $(document).ready(function(){
 
     distance.parent().parent().hide();
-    geocoder = new google.maps.Geocoder();
+
 
     if(place != null){
         $.getJSON(templateUrl + "/data/suburbs.json", function( data ) {
@@ -28,6 +28,12 @@ $(document).ready(function(){
     }
 });
 
+//called by the Google Maps API
+function initMap(){
+    geocoder = new google.maps.Geocoder();
+}
+
+//when a suburb is chosen
 place.on('change',function(){
     distanceCalc(place.find("option:selected").text() + ", WA, Australia");
 });
