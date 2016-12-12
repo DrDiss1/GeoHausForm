@@ -121,7 +121,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 		<!-- W3TC-include-js-head -->
 
 		<?php wp_footer(); ?>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtRcOdq8O4tgJpK0FPXtWWnBGM4kwbbcQ"></script>
         <script type="text/javascript" src="<?php bloginfo('template_directory') ?>/js/FormCalculator.js"></script>
+
+
 		<?php
 		/**
 		 * Echo the scripts added to the "before </body>" field in Theme Options
