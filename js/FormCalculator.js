@@ -7,7 +7,7 @@ var place = $("#suburbLocation");
 var distance = $("#location");
 
 var geocoder;
-var mainLatLng = ["-31.9505","115.8605"];
+var mainLatLng = ["-31.7450","115.7661"];
 var distanceLimits = [0,10,20,30,40,50];
 
 $(document).ready(function(){
@@ -57,7 +57,10 @@ function distanceCalc(address){
             var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
             var d = R * c;
             for(var i=0;i<distanceLimits.length;i++){
-                if(distanceLimits[i] < d && d <= distanceLimits[i+1]){
+                if( d == 0){
+                    placeID = 1;
+                    break;
+                } else if(distanceLimits[i] < d && d <= distanceLimits[i+1]){
                     placeID = i+1;
                     break;
                 }
