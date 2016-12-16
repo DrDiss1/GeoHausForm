@@ -3,23 +3,23 @@
  */
 var templateUrl = templateDir;
 var placeID;
-var place = $("#suburbLocation");
-var distance = $("#location");
+var place = jQuery("#suburbLocation");
+var distance = jQuery("#location");
 
 var geocoder;
 var mainLatLng = ["-31.7450","115.7661"];
 var distanceLimits = [0,10,20,30,40,50];
 
-$(document).ready(function(){
+jQuery(document).ready(function(){
 
     distance.parent().parent().hide();
 
 
     if(place != null){
-        $.getJSON(templateUrl + "/data/suburbs.json", function( data ) {
-            $.each(data,function(value, suburb)
+        jQuery.getJSON(templateUrl + "/data/suburbs.json", function( data ) {
+            jQuery.each(data,function(value, suburb)
             {
-                place.append($('<option></option>', {
+                place.append(jQuery('<option></option>', {
                     value: suburb.VALUE,
                     text : suburb.LOCATION + ', ' + suburb.POSTCODE
                 }));

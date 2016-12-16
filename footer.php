@@ -119,10 +119,15 @@ if ( ! defined( 'ABSPATH' ) ) {
 		<a class="fusion-one-page-text-link fusion-page-load-link"></a>
 
 		<!-- W3TC-include-js-head -->
-
-		<?php wp_footer(); ?>
+        <script>//called by the Google Maps API. CALLED TWICE (one here, one in FormCalculator), because how fast google maps syncs can go either way
+            function initMap(){
+                geocoder = new google.maps.Geocoder();
+            }
+        </script>
         <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtRcOdq8O4tgJpK0FPXtWWnBGM4kwbbcQ&callback=initMap"></script>
         <script type="text/javascript" src="<?php bloginfo('template_directory') ?>/js/FormCalculator.js"></script>
+		<?php wp_footer(); ?>
+
 
 
 		<?php
