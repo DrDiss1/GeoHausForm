@@ -736,4 +736,6 @@ if ( defined( 'DOING_AJAX' ) && DOING_AJAX && isset( $_POST['action'] ) && 'upda
 	add_filter( 'sanitize_key', 'avada_auto_update', 10, 2 );
 }
 
+define( 'WC_MAX_LINKED_VARIATIONS', 200 );
+
 /* Omit closing PHP tag to avoid "Headers already sent" issues. */
