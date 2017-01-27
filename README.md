@@ -11,3 +11,5 @@ Add these files into the parent folder of your wordpress theme. Woocommerce is o
 You can find an example of this in: GeoHausForm/woocommerce/single-product/add-to-cart/variable.php
 
 Also note the custom code in the header and footer. The header creates a global variable to grab. The footer initiates the google maps api, and the javascript.
+
+As I mentioned, this was written to be used in a very specific scenario. If you find this, study it to figure out how the Google Maps API can work for you!
