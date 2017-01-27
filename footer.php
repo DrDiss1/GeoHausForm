@@ -124,7 +124,7 @@ if ( ! defined( 'ABSPATH' ) ) {
                 geocoder = new google.maps.Geocoder();
             }
         </script>
-        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCtRcOdq8O4tgJpK0FPXtWWnBGM4kwbbcQ&callback=initMap"></script>
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=INSERT-API-KEY-HERE&callback=initMap"></script>
         <script type="text/javascript" src="<?php bloginfo('template_directory') ?>/js/FormCalculator.js"></script>
 		<?php wp_footer(); ?>
 
