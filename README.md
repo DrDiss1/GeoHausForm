@@ -3,10 +3,10 @@ The form system for the Geohaus Website. Injected into Woocommerce, it queries G
 Then it'll assign a number to the Woocommerce product, so that can calculate the cost of the job.
 This is probably more useful as a guide on what to do for interfacing with Google Maps.
 
-# How To Use
+## How To Use
 Add these files into the parent folder of your wordpress theme. Woocommerce is optional, it's just an example I used. Please delete the woocommerce folder if you do not wish to use it. Include the javascript in whichever page you want to have it on, then inject the following code where you want the list:
 
-  <select id="suburbLocation">
+  `<select id="suburbLocation">`
   
 You can find an example of this in: GeoHausForm/woocommerce/single-product/add-to-cart/variable.php
 
